@@ -1,2 +1,3 @@
 # Digital_signal_processing_based_on_Matlab
- 
+
+参考书籍：基于MATLAB的机械故障诊断技术案例教程(高等教育出版社)
